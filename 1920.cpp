@@ -95,5 +95,7 @@ int main(int argc, char* argv[]){
 			printf("0\n");	
 		}
 	}	
+	free(base);
+	free(arr);
 	return 0;
 }
