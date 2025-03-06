@@ -20,7 +20,6 @@ void draw(int x, int y, int size){
 	}	
 }	
 
-
 int main(int argc, char* argv[]){
 
 	int n;
